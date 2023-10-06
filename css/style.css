@@ -1,0 +1,25 @@
+#caja {
+    width: 100px;
+    height: 100px;
+    background-color: #7a7a19;
+}
+
+/* #caja:hover {
+    background-color: #929210;
+    width: 200px;
+    height: 200px;
+} */
+
+.boton {
+    width: 200px;
+    height: 30px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    box-shadow: 2px 1px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
